@@ -1,0 +1,16 @@
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\bin\Debug\net5.0\ConsoleAssignment6.exe
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\bin\Debug\net5.0\ConsoleAssignment6.deps.json
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\bin\Debug\net5.0\ConsoleAssignment6.runtimeconfig.json
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\bin\Debug\net5.0\ConsoleAssignment6.runtimeconfig.dev.json
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\bin\Debug\net5.0\ConsoleAssignment6.dll
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\bin\Debug\net5.0\ref\ConsoleAssignment6.dll
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\bin\Debug\net5.0\ConsoleAssignment6.pdb
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.AssemblyInfo.cs
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.dll
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ref\ConsoleAssignment6.dll
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.pdb
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.genruntimeconfig.cache
+C:\Users\aaron\source\repos\ConsoleAssignment6\ConsoleAssignment6\obj\Debug\net5.0\ConsoleAssignment6.csproj.AssemblyReference.cache

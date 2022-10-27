@@ -1,0 +1,16 @@
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.csproj.AssemblyReference.cache
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.AssemblyInfo.cs
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\bin\Debug\net5.0\ConsoleAssignment5.exe
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\bin\Debug\net5.0\ConsoleAssignment5.deps.json
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\bin\Debug\net5.0\ConsoleAssignment5.runtimeconfig.json
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\bin\Debug\net5.0\ConsoleAssignment5.runtimeconfig.dev.json
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\bin\Debug\net5.0\ConsoleAssignment5.dll
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\bin\Debug\net5.0\ref\ConsoleAssignment5.dll
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\bin\Debug\net5.0\ConsoleAssignment5.pdb
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.dll
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ref\ConsoleAssignment5.dll
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.pdb
+C:\Users\aaron\source\repos\ConsoleAssignment5\ConsoleAssignment5\obj\Debug\net5.0\ConsoleAssignment5.genruntimeconfig.cache
